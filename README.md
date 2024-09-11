@@ -2,8 +2,7 @@
 
 Este projeto é uma página simples que permite alterar a cor de fundo da página ao clicar em um botão. O botão alterna entre duas ações: mudar a cor de fundo para uma cor específica e restaurar a cor original.
 
-![image](https://github.com/user-attachments/assets/31b86d2e-7c9a-4e00-b4fb-1f0237e61553)
-
+![image](https://github.com/user-attachments/assets/24233b07-b4e0-44e6-baf3-01d718c5271b)
 
 ## Funcionalidades
 
